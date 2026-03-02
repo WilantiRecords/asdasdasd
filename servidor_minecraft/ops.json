@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "107b793a-97d4-3a6e-8db8-2a43b9ebe70c",
+    "name": "Omega_Platano",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2bbe883a-8a8b-3f8b-9fd4-049a37572324",
+    "name": "Omega_Platanos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ada33dc4-9bb8-3d75-9534-5cd17ec2c9a2",
+    "name": "Sr_Riva",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
