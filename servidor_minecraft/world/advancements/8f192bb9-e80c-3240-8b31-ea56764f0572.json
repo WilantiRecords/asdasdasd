@@ -1,0 +1,58 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2026-01-24 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-01-24 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2026-01-24 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2026-01-24 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-01-24 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-01-24 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-01-24 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-01-24 01:48:27 +0000"
+    },
+    "done": true
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:snowy_tundra": "2026-01-24 01:48:28 +0000",
+      "wythers:underground": "2026-01-24 01:50:53 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
