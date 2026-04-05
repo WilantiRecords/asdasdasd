@@ -1,0 +1,353 @@
+[05Apr2026 00:00:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Creative Mode]
+[05Apr2026 00:01:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Successfully filled 40 block(s)]
+[05Apr2026 00:04:24.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Spectator Mode]
+[05Apr2026 00:04:30.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Creative Mode]
+[05Apr2026 00:04:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Survival Mode]
+[05Apr2026 00:05:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Creative Mode]
+[05Apr2026 00:05:02.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Spectator Mode]
+[05Apr2026 00:05:09.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Creative Mode]
+[05Apr2026 00:05:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Spectator Mode]
+[05Apr2026 00:05:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Creative Mode]
+[05Apr2026 00:08:43.682] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56088d98[id=<null>,name=ciberfer,properties={},legacy=false] (/10.253.75.40:59341) lost connection: Disconnected
+[05Apr2026 00:09:12.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WilRecord moved too quickly! 0.681772204689878,10.138002016945876,0.0
+[05Apr2026 00:09:12.566] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 31286ms or 625 ticks
+[05Apr2026 00:09:12.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28841ms or 576 ticks behind
+[05Apr2026 00:09:21.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set the time to 1000]
+[05Apr2026 00:16:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Spectator Mode]
+[05Apr2026 00:16:37.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WilRecord: Set own game mode to Survival Mode]
+[05Apr2026 00:17:05.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WilRecord lost connection: Disconnected
+[05Apr2026 00:17:05.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WilRecord left the game
+[05Apr2026 00:17:05.182] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WilRecord
+[05Apr2026 00:17:36.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ciberfer[/10.253.75.40:54970] logged in with entity id 10266 at (-1936.5919608591248, 65.0, -1614.9228002353973)
+[05Apr2026 00:17:36.702] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ciberfer
+[05Apr2026 00:17:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer joined the game
+[05Apr2026 00:17:36.718] [Server thread/INFO] [Jade/]: Syncing config to ciberfer (e331f79d-075f-3495-abfc-b25969da3477)
+[05Apr2026 00:17:39.189] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ciberfer (20)
+[05Apr2026 00:17:39.190] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 00:17:48.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 00:17:49.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 00:17:49.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ciberfer (e331f79d-075f-3495-abfc-b25969da3477) successfully connected to voice chat
+[05Apr2026 00:48:27.341] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3208ms or 64 ticks
+[05Apr2026 01:13:05.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coronelperroso[/10.253.75.96:53687] logged in with entity id 12366 at (-404.49607015446264, 197.0, -1109.4108889626136)
+[05Apr2026 01:13:05.885] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Coronelperroso
+[05Apr2026 01:13:05.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso joined the game
+[05Apr2026 01:13:05.941] [Server thread/INFO] [Jade/]: Syncing config to Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513)
+[05Apr2026 01:13:06.546] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Coronelperroso (20)
+[05Apr2026 01:13:06.547] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Coronelperroso
+[05Apr2026 01:13:09.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 200128fa-5754-3bbf-816f-561e6e91d513
+[05Apr2026 01:13:10.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 200128fa-5754-3bbf-816f-561e6e91d513
+[05Apr2026 01:13:10.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513) successfully connected to voice chat
+[05Apr2026 01:13:51.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[05Apr2026 01:13:52.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 01:18:20.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso lost connection: Disconnected
+[05Apr2026 01:18:20.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso left the game
+[05Apr2026 01:18:20.485] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coronelperroso
+[05Apr2026 01:19:52.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WilRecord[/10.253.75.150:57175] logged in with entity id 13540 at (-4849.744300746384, -20.0, 438.03652648701046)
+[05Apr2026 01:19:52.751] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player WilRecord
+[05Apr2026 01:19:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WilRecord joined the game
+[05Apr2026 01:19:52.779] [Server thread/INFO] [Jade/]: Syncing config to WilRecord (8f192bb9-e80c-3240-8b31-ea56764f0572)
+[05Apr2026 01:19:53.987] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WilRecord (20)
+[05Apr2026 01:19:53.987] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WilRecord
+[05Apr2026 01:19:56.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8f192bb9-e80c-3240-8b31-ea56764f0572
+[05Apr2026 01:19:57.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8f192bb9-e80c-3240-8b31-ea56764f0572
+[05Apr2026 01:19:57.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WilRecord (8f192bb9-e80c-3240-8b31-ea56764f0572) successfully connected to voice chat
+[05Apr2026 01:20:22.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WilRecord lost connection: Disconnected
+[05Apr2026 01:20:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WilRecord left the game
+[05Apr2026 01:20:22.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WilRecord
+[05Apr2026 01:30:46.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 01:30:49.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer lost connection: Disconnected
+[05Apr2026 01:30:49.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer left the game
+[05Apr2026 01:30:49.133] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ciberfer
+[05Apr2026 01:31:31.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ciberfer[/10.253.75.40:58176] logged in with entity id 15235 at (-403.1727006413934, 197.0, -1109.0303493502975)
+[05Apr2026 01:31:32.000] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ciberfer
+[05Apr2026 01:31:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer joined the game
+[05Apr2026 01:31:32.012] [Server thread/INFO] [Jade/]: Syncing config to ciberfer (e331f79d-075f-3495-abfc-b25969da3477)
+[05Apr2026 01:31:32.170] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ciberfer (20)
+[05Apr2026 01:31:32.171] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 01:31:36.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 01:31:37.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 01:31:37.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ciberfer (e331f79d-075f-3495-abfc-b25969da3477) successfully connected to voice chat
+[05Apr2026 01:38:16.386] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3057ms or 61 ticks
+[05Apr2026 01:41:01.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 01:44:03.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 02:09:44.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 02:18:28.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer lost connection: Disconnected
+[05Apr2026 02:18:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer left the game
+[05Apr2026 02:18:28.281] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ciberfer
+[05Apr2026 02:18:57.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ciberfer[/10.253.75.40:58153] logged in with entity id 21544 at (-399.1441310079243, 202.0, -1135.992991153496)
+[05Apr2026 02:18:57.704] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ciberfer
+[05Apr2026 02:18:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer joined the game
+[05Apr2026 02:18:57.713] [Server thread/INFO] [Jade/]: Syncing config to ciberfer (e331f79d-075f-3495-abfc-b25969da3477)
+[05Apr2026 02:18:57.854] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ciberfer (20)
+[05Apr2026 02:18:57.854] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 02:19:00.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 02:19:01.377] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 02:19:01.377] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ciberfer (e331f79d-075f-3495-abfc-b25969da3477) successfully connected to voice chat
+[05Apr2026 02:40:40.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.253.75.189:57407] logged in with entity id 23108 at (3136.75932573762, 63.0, 144.0535029201755)
+[05Apr2026 02:41:12.346] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[05Apr2026 02:41:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[05Apr2026 02:41:12.371] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[05Apr2026 02:41:12.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Timed out
+[05Apr2026 02:41:12.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[05Apr2026 02:41:12.378] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[05Apr2026 02:41:12.397] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 34850ms or 697 ticks
+[05Apr2026 02:41:12.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31920ms or 638 ticks behind
+[05Apr2026 02:41:12.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer lost connection: Disconnected
+[05Apr2026 02:41:12.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer left the game
+[05Apr2026 02:41:12.405] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ciberfer
+[05Apr2026 02:41:12.415] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2026 02:41:20.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.253.75.189:52961] logged in with entity id 23109 at (3136.75932573762, 63.0, 144.0535029201755)
+[05Apr2026 02:41:20.055] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[05Apr2026 02:41:20.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[05Apr2026 02:41:20.075] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[05Apr2026 02:41:21.303] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[05Apr2026 02:41:21.303] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Apr2026 02:41:24.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ciberfer[/10.253.75.40:57351] logged in with entity id 23302 at (-411.1870126802242, 196.0, -1108.699999988079)
+[05Apr2026 02:41:24.756] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ciberfer
+[05Apr2026 02:41:24.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer joined the game
+[05Apr2026 02:41:24.776] [Server thread/INFO] [Jade/]: Syncing config to ciberfer (e331f79d-075f-3495-abfc-b25969da3477)
+[05Apr2026 02:41:25.012] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ciberfer (20)
+[05Apr2026 02:41:25.012] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 02:41:27.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Apr2026 02:41:27.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 02:41:28.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Apr2026 02:41:28.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[05Apr2026 02:41:28.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 02:41:28.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ciberfer (e331f79d-075f-3495-abfc-b25969da3477) successfully connected to voice chat
+[05Apr2026 02:43:59.131] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3055ms or 61 ticks
+[05Apr2026 02:52:44.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coronelperroso[/10.253.75.96:60648] logged in with entity id 28571 at (-410.68582433325207, 196.0, -1106.8628694994245)
+[05Apr2026 02:52:44.079] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Coronelperroso
+[05Apr2026 02:52:44.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso joined the game
+[05Apr2026 02:52:44.139] [Server thread/INFO] [Jade/]: Syncing config to Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513)
+[05Apr2026 02:52:44.754] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Coronelperroso (20)
+[05Apr2026 02:52:44.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Coronelperroso
+[05Apr2026 02:52:48.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 200128fa-5754-3bbf-816f-561e6e91d513
+[05Apr2026 02:52:49.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 200128fa-5754-3bbf-816f-561e6e91d513
+[05Apr2026 02:52:49.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513) successfully connected to voice chat
+[05Apr2026 02:58:59.232] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3180ms or 63 ticks
+[05Apr2026 02:59:04.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 03:00:52.863] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[05Apr2026 03:01:19.462] [Worker-Main-206/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[05Apr2026 03:01:21.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved too quickly! 5.378406670716572,-8.231282816242015,-3.297283338148148
+[05Apr2026 03:01:22.191] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=250, y=-32, z=-17}
+[05Apr2026 03:01:22.191] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=250, y=-32, z=-18}
+[05Apr2026 03:01:24.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=250, y=-32, z=-17}
+[05Apr2026 03:01:25.901] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=327, y=-5, z=14}
+[05Apr2026 03:01:26.518] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=336, y=-38, z=8}
+[05Apr2026 03:01:26.616] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=267, y=6, z=8}
+[05Apr2026 03:01:27.787] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=327, y=-5, z=14}
+[05Apr2026 03:01:27.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=336, y=-38, z=10}
+[05Apr2026 03:01:58.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=287, y=-32, z=49}
+[05Apr2026 03:02:09.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=427, y=-44, z=-112}
+[05Apr2026 03:02:12.635] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=464, y=24, z=-55}
+[05Apr2026 03:02:14.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=493, y=18, z=-67}
+[05Apr2026 03:02:20.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=564, y=8, z=94}
+[05Apr2026 03:02:46.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=670, y=-10, z=-78}
+[05Apr2026 03:03:17.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[05Apr2026 03:03:18.196] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=479, y=-39, z=289}
+[05Apr2026 03:03:18.196] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=479, y=-39, z=287}
+[05Apr2026 03:03:21.918] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=582, y=14, z=339}
+[05Apr2026 03:03:21.919] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=581, y=14, z=339}
+[05Apr2026 03:03:23.400] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=553, y=15, z=325}
+[05Apr2026 03:03:23.987] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=582, y=14, z=339}
+[05Apr2026 03:03:26.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=567, y=18, z=363}
+[05Apr2026 03:03:28.337] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=435, y=-1, z=272}
+[05Apr2026 03:03:31.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=465, y=-52, z=408}
+[05Apr2026 03:03:35.069] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=404, y=21, z=440}
+[05Apr2026 03:03:35.069] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=405, y=21, z=440}
+[05Apr2026 03:03:35.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=625, y=-50, z=463}
+[05Apr2026 03:03:36.238] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=491, y=19, z=454}
+[05Apr2026 03:03:59.150] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[05Apr2026 03:04:01.182] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=399, y=31, z=348}
+[05Apr2026 03:04:34.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[05Apr2026 03:04:42.245] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=382, y=1, z=449}
+[05Apr2026 03:05:59.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[05Apr2026 03:08:04.459] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=191, y=-42, z=230}
+[05Apr2026 03:08:06.421] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=243, y=-40, z=260}
+[05Apr2026 03:08:09.341] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=321, y=-10, z=196}
+[05Apr2026 03:08:11.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=358, y=-3, z=139}
+[05Apr2026 03:08:49.493] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=702, y=-12, z=303}
+[05Apr2026 03:10:48.284] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4020ms or 80 ticks
+[05Apr2026 03:10:51.873] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=303, y=-53, z=360}
+[05Apr2026 03:10:52.074] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=269, y=-5, z=442}
+[05Apr2026 03:10:54.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=269, y=-5, z=442}
+[05Apr2026 03:10:55.443] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=343, y=-18, z=477}
+[05Apr2026 03:10:55.683] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=254, y=19, z=451}
+[05Apr2026 03:11:06.220] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=220, y=-22, z=438}
+[05Apr2026 03:11:19.885] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=301, y=-9, z=515}
+[05Apr2026 03:11:26.035] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=219, y=-22, z=438}
+[05Apr2026 03:11:38.306] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=167, y=-38, z=382}
+[05Apr2026 03:11:39.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 03:11:41.335] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=169, y=-38, z=382}
+[05Apr2026 03:11:42.637] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=244, y=-11, z=606}
+[05Apr2026 03:11:52.131] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=281, y=26, z=668}
+[05Apr2026 03:12:14.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2026 03:12:14.791] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2026 03:12:14.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2026 03:12:15.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2026 03:12:15.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2026 03:12:15.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2026 03:12:15.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2026 03:12:15.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2026 03:12:33.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=330, y=28, z=696}
+[05Apr2026 03:12:48.734] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=451, y=-10, z=599}
+[05Apr2026 03:12:48.771] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=469, y=-16, z=743}
+[05Apr2026 03:12:51.235] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=469, y=-16, z=744}
+[05Apr2026 03:13:37.533] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=223, y=-21, z=789}
+[05Apr2026 03:13:37.787] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=400, y=4, z=796}
+[05Apr2026 03:13:37.944] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=172, y=-9, z=719}
+[05Apr2026 03:13:37.945] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=174, y=-9, z=719}
+[05Apr2026 03:13:38.783] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=172, y=-9, z=719}
+[05Apr2026 03:13:46.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=93, y=-10, z=488}
+[05Apr2026 03:13:55.297] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=10, y=-17, z=597}
+[05Apr2026 03:14:04.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[05Apr2026 03:15:24.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[05Apr2026 03:15:30.679] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=599, y=-20, z=482}
+[05Apr2026 03:15:30.706] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=592, y=25, z=494}
+[05Apr2026 03:15:43.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso moved wrongly!
+[05Apr2026 03:16:11.035] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=702, y=-12, z=303}
+[05Apr2026 03:16:36.892] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=594, y=25, z=494}
+[05Apr2026 03:16:43.776] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=730, y=-38, z=338}
+[05Apr2026 03:16:51.269] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=728, y=-38, z=338}
+[05Apr2026 03:17:04.622] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3062ms or 61 ticks
+[05Apr2026 03:17:13.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=815, y=5, z=83}
+[05Apr2026 03:17:15.040] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=847, y=29, z=118}
+[05Apr2026 03:17:18.805] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=804, y=-24, z=48}
+[05Apr2026 03:17:22.183] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=883, y=-28, z=25}
+[05Apr2026 03:17:27.654] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=809, y=-15, z=-48}
+[05Apr2026 03:17:29.207] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=769, y=-5, z=-60}
+[05Apr2026 03:17:35.558] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=932, y=-14, z=7}
+[05Apr2026 03:17:39.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=932, y=-14, z=7}
+[05Apr2026 03:17:39.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=931, y=-39, z=1}
+[05Apr2026 03:17:44.888] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=966, y=23, z=7}
+[05Apr2026 03:17:44.891] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=966, y=0, z=-28}
+[05Apr2026 03:19:41.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4471, y=16, z=-162}
+[05Apr2026 03:19:50.367] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4452, y=-9, z=-299}
+[05Apr2026 03:19:52.688] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4452, y=-9, z=-299}
+[05Apr2026 03:19:52.693] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4289, y=-40, z=-302}
+[05Apr2026 03:20:04.886] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4497, y=23, z=-399}
+[05Apr2026 03:20:07.296] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4364, y=-13, z=-418}
+[05Apr2026 03:23:34.194] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/48795, l='ServerLevel[world]', x=-2064.73, y=66.01, z=-1642.31, removed=DISCARDED]
+[05Apr2026 03:23:59.137] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3065ms or 61 ticks
+[05Apr2026 03:24:37.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso lost connection: Disconnected
+[05Apr2026 03:24:37.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso left the game
+[05Apr2026 03:24:37.939] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coronelperroso
+[05Apr2026 03:24:59.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer lost connection: Disconnected
+[05Apr2026 03:24:59.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer left the game
+[05Apr2026 03:24:59.389] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ciberfer
+[05Apr2026 03:25:14.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ciberfer[/10.253.75.40:62934] logged in with entity id 49926 at (-1920.300000011921, 64.0, -1655.5612751849012)
+[05Apr2026 03:25:14.852] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ciberfer
+[05Apr2026 03:25:14.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer joined the game
+[05Apr2026 03:25:14.864] [Server thread/INFO] [Jade/]: Syncing config to ciberfer (e331f79d-075f-3495-abfc-b25969da3477)
+[05Apr2026 03:25:15.175] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ciberfer (20)
+[05Apr2026 03:25:15.176] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 03:25:17.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 03:25:18.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 03:25:18.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ciberfer (e331f79d-075f-3495-abfc-b25969da3477) successfully connected to voice chat
+[05Apr2026 03:25:48.069] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=40, y=28, z=-1038}
+[05Apr2026 03:25:59.253] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=116, y=-47, z=-967}
+[05Apr2026 03:25:59.254] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=116, y=-47, z=-969}
+[05Apr2026 03:25:59.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=109, y=-51, z=-985}
+[05Apr2026 03:26:01.435] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=116, y=-47, z=-967}
+[05Apr2026 03:26:02.985] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=135, y=-47, z=-973}
+[05Apr2026 03:26:07.903] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=56, y=15, z=-902}
+[05Apr2026 03:26:33.595] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=220, y=-2, z=-1209}
+[05Apr2026 03:33:36.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 03:39:13.707] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=348, y=8, z=-1129}
+[05Apr2026 03:39:14.415] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=362, y=-2, z=-1119}
+[05Apr2026 03:39:14.415] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=362, y=-2, z=-1117}
+[05Apr2026 03:39:14.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=324, y=19, z=-1119}
+[05Apr2026 03:39:14.735] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=269, y=7, z=-1124}
+[05Apr2026 03:39:14.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=334, y=-47, z=-1056}
+[05Apr2026 03:39:17.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=362, y=-2, z=-1119}
+[05Apr2026 03:39:21.461] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=397, y=-20, z=-889}
+[05Apr2026 03:39:21.461] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=398, y=-20, z=-889}
+[05Apr2026 03:39:23.940] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=347, y=15, z=-895}
+[05Apr2026 03:39:33.031] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=56, y=15, z=-902}
+[05Apr2026 03:39:52.113] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=73, y=37, z=-843}
+[05Apr2026 03:39:52.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=73, y=37, z=-843}
+[05Apr2026 03:40:19.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> ciber ayudaa
+[05Apr2026 03:40:25.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ciberfer> que paso
+[05Apr2026 03:40:32.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> me cahi
+[05Apr2026 03:40:44.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> estoy cerca ayuda
+[05Apr2026 03:40:45.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ciberfer> donde estas
+[05Apr2026 03:40:58.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ciberfer> ya voy
+[05Apr2026 03:41:07.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino fell from a high place
+[05Apr2026 03:41:07.191] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for vitori_pinguino with unique ID travelersbackpack.dragon_05.04.2026-03.41.07.dat
+[05Apr2026 03:41:07.193] [Server thread/INFO] [gravestone/]: The death ID of player vitori_pinguino is 3bfa139e-1093-43c3-826b-3fc9e4578563
+[05Apr2026 03:41:45.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ciberfer> donde estas
+[05Apr2026 03:41:59.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> en mi aplanada
+[05Apr2026 03:42:12.241] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 14604ms or 292 ticks
+[05Apr2026 03:42:12.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13064ms or 261 ticks behind
+[05Apr2026 03:42:12.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of ciberfer) moved too quickly! 3.3653048001874026,-5.101170199850458E-4,9.423017433181371
+[05Apr2026 03:43:12.236] [Server thread/WARN] [waterframes/]: Rejected tick correction of 60599ms, overpass watchdog time
+[05Apr2026 03:43:12.236] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 60599ms or 1211 ticks
+[05Apr2026 03:42:53.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e331f79d-075f-3495-abfc-b25969da3477 timed out
+[05Apr2026 03:43:12.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ciberfer
+[05Apr2026 03:43:12.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 03:43:12.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Disconnected
+[05Apr2026 03:43:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[05Apr2026 03:43:12.251] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[05Apr2026 03:43:12.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer lost connection: Disconnected
+[05Apr2026 03:43:12.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer left the game
+[05Apr2026 03:43:12.278] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ciberfer
+[05Apr2026 03:43:12.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45735ms or 914 ticks behind
+[05Apr2026 03:43:13.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ciberfer[/10.253.75.40:57240] logged in with entity id 57115 at (-361.2321447332244, 109.88397216796875, -996.3530294375367)
+[05Apr2026 03:43:13.518] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ciberfer
+[05Apr2026 03:43:13.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer joined the game
+[05Apr2026 03:43:13.527] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity GyrodyneEntity['Gyrodyne'/57116, l='ServerLevel[world]', x=-361.23, y=110.33, z=-996.35] as it would cause deadlock
+[05Apr2026 03:43:13.614] [Server thread/INFO] [Jade/]: Syncing config to ciberfer (e331f79d-075f-3495-abfc-b25969da3477)
+[05Apr2026 03:43:13.688] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ciberfer (20)
+[05Apr2026 03:43:13.689] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 03:43:14.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.253.75.189:51015] logged in with entity id 57159 at (-1323.5948372784608, 64.0, -1408.1810086553337)
+[05Apr2026 03:43:14.052] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[05Apr2026 03:43:14.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[05Apr2026 03:43:14.067] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[05Apr2026 03:43:15.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 03:43:15.994] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[05Apr2026 03:43:15.995] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Apr2026 03:43:16.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 03:43:16.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ciberfer (e331f79d-075f-3495-abfc-b25969da3477) successfully connected to voice chat
+[05Apr2026 03:43:22.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Apr2026 03:43:22.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ciberfer> voy
+[05Apr2026 03:43:23.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Apr2026 03:43:23.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[05Apr2026 03:43:25.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 03:45:29.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[05Apr2026 03:48:23.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[05Apr2026 03:49:30.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[05Apr2026 03:50:06.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 03:50:15.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer moved wrongly!
+[05Apr2026 03:51:14.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-389, y=91, z=-1045} BlockPos{x=-390, y=91, z=-1043}
+[05Apr2026 03:55:55.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved too quickly! -0.5603916594416773,21.355087996769342,-1.121375965348534
+[05Apr2026 03:56:12.211] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 18453ms or 369 ticks
+[05Apr2026 03:56:12.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16934ms or 338 ticks behind
+[05Apr2026 03:56:16.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ciberfer> victor salvae
+[05Apr2026 04:01:04.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Disconnected
+[05Apr2026 04:01:04.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[05Apr2026 04:01:04.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[05Apr2026 04:03:12.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer lost connection: Timed out
+[05Apr2026 04:03:12.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer left the game
+[05Apr2026 04:03:12.884] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ciberfer
+[05Apr2026 04:03:12.932] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2026 04:03:24.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ciberfer[/10.253.75.40:56115] logged in with entity id 60079 at (-393.7027539005242, 202.0, -1127.8144063353259)
+[05Apr2026 04:03:24.298] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ciberfer
+[05Apr2026 04:03:24.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer joined the game
+[05Apr2026 04:03:24.307] [Server thread/INFO] [Jade/]: Syncing config to ciberfer (e331f79d-075f-3495-abfc-b25969da3477)
+[05Apr2026 04:03:24.450] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ciberfer (20)
+[05Apr2026 04:03:24.451] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 04:03:26.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 04:03:27.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 04:03:27.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ciberfer (e331f79d-075f-3495-abfc-b25969da3477) successfully connected to voice chat
+[05Apr2026 04:18:40.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ciberfer lost connection: Disconnected
+[05Apr2026 04:18:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer left the game
+[05Apr2026 04:18:40.181] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ciberfer
+[05Apr2026 04:18:51.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ciberfer[/10.253.75.40:51892] logged in with entity id 64254 at (-1190.102157638957, 64.0, -1187.1830465972114)
+[05Apr2026 04:18:51.747] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ciberfer
+[05Apr2026 04:18:51.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ciberfer joined the game
+[05Apr2026 04:18:51.757] [Server thread/INFO] [Jade/]: Syncing config to ciberfer (e331f79d-075f-3495-abfc-b25969da3477)
+[05Apr2026 04:18:51.902] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ciberfer (20)
+[05Apr2026 04:18:51.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ciberfer
+[05Apr2026 04:18:55.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 04:18:56.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e331f79d-075f-3495-abfc-b25969da3477
+[05Apr2026 04:18:56.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ciberfer (e331f79d-075f-3495-abfc-b25969da3477) successfully connected to voice chat
